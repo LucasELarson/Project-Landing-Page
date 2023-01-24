@@ -141,6 +141,7 @@ li {
     margin-right: 200px;
     flex:1;
     justify-content: space-between;
+    align-items: center;
     padding: 50px 100px;
     border-radius: 10px;
     border: 0px;
@@ -163,9 +164,10 @@ li {
     background-color: #3882f6;
     border-color: #f9faf8;
     color: #f9faf8;
-    width: 15%;
+    width: 100%;
     height: auto;
-    border-radius: 10px;
+    border-radius: 5px;
+    padding: 5px 25px;
 
 }
 
