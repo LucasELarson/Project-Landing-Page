@@ -1,0 +1,63 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    display: flex;
+}
+
+.first {
+    display: flex;
+}
+
+.firstleft {
+    display: flex;
+    flex-direction: column;
+}
+
+.firstright {
+    display: flex;
+}
+
+.second {
+    display: flex;
+    flex-direction: column;
+}
+
+.images {
+    display: flex;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+}
+
+.pic {
+    width: 100px;
+    height: auto;
+}
+
+.third {
+    display: flex;
+    flex-direction: column;
+}
+
+.fourth {
+    display: flex;
+}
+
+.modal {
+    display: flex;
+}
+
+.calltext {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+}
